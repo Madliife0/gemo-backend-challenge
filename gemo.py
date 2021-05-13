@@ -1,4 +1,3 @@
-from typing import ByteString
 import flask
 from flask import jsonify
 import requests
